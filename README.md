@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvpJZGb7XJnO5LQdqBKZ_etrlqArIzJYPZLgKgeK5RvUfEpiHuBkxk95zEGx1ml8Zu9NwknZ6_6rtfHWUQTmREHVx3URsf42g60a_qdJJKApgi1nuXMUWeZOID69fUzJ836fLGTwqsWw1Tewzg4h5pG_EVUTon9Bf6zTPDccUxjbl8DiEhVsa5YNLqbA/s320/DUCKY%20PI.jpg" <br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvpJZGb7XJnO5LQdqBKZ_etrlqArIzJYPZLgKgeK5RvUfEpiHuBkxk95zEGx1ml8Zu9NwknZ6_6rtfHWUQTmREHVx3URsf42g60a_qdJJKApgi1nuXMUWeZOID69fUzJ836fLGTwqsWw1Tewzg4h5pG_EVUTon9Bf6zTPDccUxjbl8DiEhVsa5YNLqbA/s320/DUCKY%20PI.jpg" height="60"><br>
 <b>A Hindi Practical Hacking Videos, powered by Linuxndroid</b>
 </p>
 
