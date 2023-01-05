@@ -41,5 +41,3 @@ This Course is built for both Educational and Internal use ONLY.</b>
 [![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
 
 [![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.com)
-
-https://github.com/LinuxndroidTeam/Duckypi/blob/main/DUCKY%20PI.jpg
